@@ -6,6 +6,7 @@ users.json
 
 # Images
 *.png
+!speednice_logo.png
 *.jpg
 *.jpeg
 *.gif
