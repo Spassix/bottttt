@@ -91,7 +91,7 @@ Tu es sur le bot officiel **SPEED NICE**. Accède rapidement à tous nos service
 • Reste connecté pour ne rien rater
 
 **📞 Besoin d'aide ?**
-🐦‍⬛ Contacte-nous directement : @SpeedNeverDie
+🐦‍⬛ Contacte-nous directement : @shopspeed06
 
 Sélectionne une option ci-dessous 👇"""
     
